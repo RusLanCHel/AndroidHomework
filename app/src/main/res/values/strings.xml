@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">My ApplicationHW</string>
+    <string name="app_name">CityWeather</string>
+    <string name="town_name">ГОРОД</string>
+    <string name="temperature">ТЕМПЕРАТУРА</string>
+    <string name="morning_temperature">УТРО</string>
+    <string name="evening_temperature">ВЕЧЕР</string>
+    <string name="separator">ПОДРОБНАЯ ИНФОРМАЦИЯ:</string>
+    <string name="addition_precipitation">ОСАДКИ</string>
+    <string name="Pressure">ДАВЛЕНИЕ</string>
+    <string name="pressure_value">ДАВЛЕНИЕ (ЗНАЧЕНИЕ)</string>
+    <string name="humidity">ВЛАЖНОСТЬ</string>
+    <string name="wind">ВЕТЕР</string>
+    <string name="wind_speed">СКОРОСТЬ</string>
+    <string name="wind_direction">НАПРАВЛЕНИЕ</string>
+    <string name="humidity_value">ВЛАЖНОСТЬ (ЗНАЧЕНИЕ)</string>
+    <string name="wind_speed_value">СКОРОСТЬ (ЗНАЧЕНИЕ)</string>
+    <string name="wind_direction_value">НАПРАВЛЕНИЕ (ЗНАЧЕНИЕ)</string>
+    <string name="search_town_hint">ВВЕДИТЕ НАЗВАНИЕ ГОРОДА</string>
+
 </resources>
